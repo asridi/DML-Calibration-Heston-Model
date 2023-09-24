@@ -1,6 +1,6 @@
 # DML-Calibration-Heston-Model
 
-I applied the Differential Machine Learning (DML) technique to price vanilla European options (i.e. the calibration instruments) when the underlying asset follows a Heston model and then calibrated the model using the trained network. 
+We applied the Differential Machine Learning (DML) technique to price vanilla European options (i.e. the calibration instruments) when the underlying asset follows a Heston model and then calibrated the model using the trained network. 
 
 The paper can be accessed here https://lnkd.in/dSXgxtR4
 
